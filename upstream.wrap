@@ -1,0 +1,6 @@
+[wrap-file]
+directory = box2d-2.3.1
+
+source_url = https://github.com/erincatto/box2d/archive/v2.3.1/box2d-2.3.1.tar.gz
+source_filename = box2d-2.3.1.tar.gz
+source_hash = c18349cb2a64e76d0c3efb9e51feea97e8f858371140050bd423fc5d41aa13a4
