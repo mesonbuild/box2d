@@ -1,0 +1,6 @@
+[wrap-file]
+subdir = box2d-2.3.1
+
+source_url = https://github.com/erincatto/box2d/archive/v2.3.1.zip
+source_filename = box2d_2.3.1.zip
+source_hash = 498b0a32cef46c5580e53a7ad5aa002926c036379a1c41767b662ae99c7c32b3
