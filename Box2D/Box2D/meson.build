@@ -47,11 +47,6 @@ sources = [
   'Rope/b2Rope.cpp',
 ]
 
-if get_option('shared_lib')
-  box2dlib = shared_library('box2d', sources,
-   include_directories : incdir)
-else
-  box2dlib = static_library('box2d', sources,
-    include_directories : incdir)
-endif
+box2dlib = library('box2d', sources,
+ include_directories : incdir)
 
