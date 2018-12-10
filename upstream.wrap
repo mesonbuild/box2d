@@ -1,5 +1,5 @@
 [wrap-file]
-directory = box2d-2.3.1
+directory = Box2D-2.3.1
 
 source_url = https://github.com/erincatto/box2d/archive/v2.3.1/box2d-2.3.1.tar.gz
 source_filename = box2d-2.3.1.tar.gz
